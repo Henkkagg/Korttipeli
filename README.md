@@ -1,6 +1,6 @@
 # Korttipeli Android
 
-Tämä on Android front-end fullstack projektiini.
+Tämä on Android-frontend fullstack projektiini. Backendin esittely täällä: https://github.com/Henkkagg/Korttipeli-Backend
 
 Korttipeli on verkon kautta toimiva moninpeli. Peliin rekisteröidyttyään pelaaja voi luoda omia kortteja, sekä lisätä muita käyttäjiä kavereikseen. Sekä omista, että kavereiden korteista pystyy kokoamaan pakan, jolla kaverit sitten voivat pelata keskenään.
 
